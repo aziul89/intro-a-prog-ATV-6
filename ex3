@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Este é um HTML básico.</title>
+</head>
+<body>
+    <header>
+      <h1>Aqui está minha primeira página HTML</h1>
+      <P>Elementos:</P>
+      <ul>
+        <li>Cabeçalho (head)</li>
+        <li>Corpo do texto (body)</li>
+        <li>Parágrafo</li>
+      </ul>
+    </header>
+</body>
+</html>
